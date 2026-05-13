@@ -285,6 +285,7 @@ h2 i {
 .left-panel .credit {
     margin-top: auto; /* Push to bottom of left panel on desktop */
     justify-content: flex-start;
+    padding-bottom: 80px;
 }
 
 .credit a {
